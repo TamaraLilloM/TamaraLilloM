@@ -1,8 +1,8 @@
 # Hola, soy Tamara Lillo 👋
 
-Soy **TI Junior en formación**, con conocimientos en **Python, Django, Java, SQL, DBeaver, HTML, CSS, JavaScript, Git y GitHub**.
+Soy **TI Junior**, con conocimientos en **Python, Django, Java, SQL, DBeaver, HTML, CSS, JavaScript, Git y GitHub**.
 
-Tengo formación previa en **Administración de Empresas con mención en Finanzas**, por lo que me interesa unir la tecnología con soluciones reales para empresas, datos, procesos y transformación digital.
+Tengo formación previa en **Ingeneria en Administración de Empresas con mención en Finanzas**, por lo que me interesa unir la tecnología con soluciones reales para empresas, datos, procesos y transformación digital.
 
 Actualmente estoy desarrollando proyectos relacionados con desarrollo web, bases de datos y soluciones digitales para PYMES a través de **InverZen**.
 
